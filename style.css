@@ -1,0 +1,31 @@
+.abcd {
+  background-color: #dfe1be;               
+}
+.abcd h2 {
+  color: #ff0000;            
+}
+.abcd p {
+            color: brown;
+}
+
+
+.efgh {
+  background-color: #000000;            
+}
+.efgh h2 {
+    color: rgb(229, 255, 0);          
+}
+.efgh p {
+    color: aqua;
+}
+
+
+.ijkl {
+  background-color: #ffce8d; 
+}
+.ijkl h2 {
+  color:   #2600ff;            
+}
+.ijkl p {
+    color: #ff0000;
+}
